@@ -5,7 +5,7 @@
 Madagascar is renowned as one of the world’s most significant biodiversity hotspots. However, it is facing an alarming rate of deforestation that threatens its unique ecosystems and global climate stability. Over 90% of Madagascar’s wildlife, including iconic endemic species such as lemurs, fossas, and tenrecs, relies on forest habitats that are rapidly disappearing due to human activity. Over the last 20 years (2001 - 2021), Madagascar lost approximately 4.85 million hectares of tree cover, equivalent to a 25% decrease in forested area, resulting in an estimated 2.52 gigatonnes of CO₂-equivalent greenhouse gas emissions (Suzzi-Simmons, 2023).
 
 <p align="center">
-  <img src="" width="1000" height="auto"/>
+  <img src="/Images/Madagascar climate.png" width="1000" height="auto"/>
 </p>
 
 This deforestation is primarily driven by potential economic profit, including slash-and-burn agriculture, charcoal production, illegal logging, and forest arson. These activities are often associated with rural poverty, creating a feedback loop that accelerates deforestation and biodiversity loss. With an ongoing annual loss of roughly 200,000 hectares, Madagascar has already lost around 80% of its original forest cover, and projections suggest that, without intervention, the remaining forests could vanish entirely within the next 25 years (Vieilledent et al., 2020).
