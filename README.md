@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Images/NDVI_image.png" width="800" height="auto"/>
+  <img src="/Images/NDVI_image.png" width="600" height="auto"/>
 </p>
 
 # Monitoring Deforestation in Madagascar Using Sentinel-2 Imagery and Supervised Machine Learning
