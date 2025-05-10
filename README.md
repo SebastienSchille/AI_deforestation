@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/Images/NDVI_image.png" width="800" height="auto"/>
+</p>
+
 # Monitoring Deforestation in Madagascar Using Sentinel-2 Imagery and Supervised Machine Learning
 
 ## Project Background
